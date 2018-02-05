@@ -1,4 +1,4 @@
-# NetworkAnalysisUsingPython
+# NetworkAnalysisPython
 
 <b>Ping a list of IP addresses from Amazon Reachability list.</b>
 
